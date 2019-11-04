@@ -33,7 +33,7 @@ database = {
     'id4': {
         'title': 'Python Cookbook, Second Edition',
         'isbn': '978-0-596-00797-3',
-        'publisher': 'O''Reilly Media',
+        'publisher': 'O\'Reilly Media',
         'author': 'Alex Martelli, Anna Ravenscroft, David Ascher',
     },
     'id5': {
